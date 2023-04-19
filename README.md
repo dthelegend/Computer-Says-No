@@ -1,3 +1,3 @@
 # computer_says_no
 
-A new Flutter project.
+A simple app that just says no to you
